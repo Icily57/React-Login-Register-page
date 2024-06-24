@@ -1,0 +1,26 @@
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .formField {
+    margin-bottom: 1rem;
+  }
+  
+  .formField label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .formField input {
+    width: 100%;
+    padding: 0.5rem;
+  }
+  
+  .errorMessage {
+    color: red;
+    margin-top: 0.5rem;
+  }
+  
